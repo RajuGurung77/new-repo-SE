@@ -2,3 +2,4 @@ My new file.
 We are learning cloning
 we are in second session of git cloning
 Hello this is my 3rd day
+This line was added in feature1 branch
